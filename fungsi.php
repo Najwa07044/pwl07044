@@ -6,7 +6,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "akademik12345";
+$database = "pwlgenap2019-akademik";
 
 
  
